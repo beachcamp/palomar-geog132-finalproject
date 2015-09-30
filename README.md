@@ -4,3 +4,5 @@
 <i>Final project for Geog 132 Geodatabase Design</i>
 <br>
 Database based on ESRI Local Government Model 
+
+<img src="https://github.com/beachcamp/palomar-geog132-finalproject/blob/master/Coll2Map.jpg" />
