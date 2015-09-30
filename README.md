@@ -6,6 +6,7 @@
 Database based on ESRI Local Government Model 
 <br />
 <h2>Map products based on geodatabase data/analysis</h2>
+<i>Developed collaboratively within six person group.</i>
 <br />
 <h4><i>Overview</i></h4>
 <img src="https://github.com/beachcamp/palomar-geog132-finalproject/blob/master/Coll2Map.jpg" />
